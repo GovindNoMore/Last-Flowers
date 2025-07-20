@@ -1,2 +1,2 @@
-# Last-Flowers
-its just a program for people who love music and loves to explore new music
+#Symphony
+Hello i made this project for people to test their music taste and explore and find more similar artists i am kind of new to github
